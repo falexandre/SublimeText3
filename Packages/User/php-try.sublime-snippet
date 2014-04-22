@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+
+try {
+
+
+	${1}
+
+
+
+} catch (Exception \$e) {
+		
+		/* Exibe mensagem de erro */
+
+		echo \$e->getMessage();
+}
+
+]]></content>
+	<tabTrigger>try</tabTrigger>
+	<scope>source.php</scope>
+	<description>Try com impressão de mensagem de erro</description>
+</snippet>

@@ -1,0 +1,43 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"Additional PHP Snippets",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Composer",
+		"DocBlockr",
+		"Emmet Css Snippets",
+		"Emmet",
+		"FileZilla SFTP Import",
+		"Git",
+		"HTML Snippets",
+		"jQuery",
+		"Minifier",
+		"Package Control",
+		"PHP-Twig",
+		"Phpcs",
+		"PhpDoc",
+		"PhpNamespace",
+		"PHPUnit",
+		"Pretty JSON",
+		"Python Unittest Helper",
+		"SideBarEnhancements",
+		"SQF Language",
+		"sublimetext.github.com",
+		"SublimeTextGitX",
+		"Tag",
+		"Tagify",
+		"Theme - Argonaut",
+		"Theme - Soda"
+	],
+	"startup_sec": 0.3274452,
+	"syntax":
+	{
+		"HTML": 12,
+		"PHP": 233
+	},
+	"time": 1397736235
+}

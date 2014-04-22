@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+if( ${1} ){
+	
+}elseif( ${1:[Variavel de comparação ]} ){
+
+}else{
+	${2}
+}
+]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.php</scope>
+    <description>if completo</description>
+</snippet>
