@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+
+      echo '<pre>';
+                  print_r();
+            echo '</pre>';
+
+]]></content>
+	<tabTrigger>pre</tabTrigger>
+	<scope>source.php</scope>
+	<description>Echo com pre e print_r para debug</description>
+</snippet>
