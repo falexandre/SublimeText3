@@ -3,7 +3,7 @@
 
       echo '<pre>';
                   print_r();
-            echo '</pre>';
+      echo '</pre>';
 
 ]]></content>
 	<tabTrigger>pre</tabTrigger>

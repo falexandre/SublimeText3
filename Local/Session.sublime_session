@@ -1060,6 +1060,14 @@
 				"selected_items":
 				[
 					[
+						"sub",
+						"submit	submit"
+					],
+					[
+						"scri",
+						"script	HTML - Script"
+					],
+					[
 						"on",
 						"onclick	Attr"
 					],
@@ -1296,10 +1304,6 @@
 						"cep2"
 					],
 					[
-						"scri",
-						"JavaScript"
-					],
-					[
 						"PAC",
 						"PAC_HTML"
 					],
@@ -1383,11 +1387,11 @@
 				"selected_items":
 				[
 					[
-						"en",
+						"enco",
 						"HTML: Encode Special Characters"
 					],
 					[
-						"enco",
+						"en",
 						"HTML: Encode Special Characters"
 					],
 					[
@@ -1484,30 +1488,57 @@
 			},
 			"file_history":
 			[
-				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_classes/SQLcontrole.class.php",
+				"/C/Users/fabio/Documents/GitHub/otherClasses/.git/config",
+				"/C/Users/fabio/Documents/GitHub/appTemplate/.git/config",
+				"//servidor/arquivos/2014/Virtual_Force/_classes/SQLcontrole.class.php",
+				"//servidor/arquivos/2014/Virtual_Force/Suavéss_(230)/www/VirtualForce/define.php",
+				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/cadastrar_imovel.php",
+				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/contato.php",
+				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/_topo.php",
 				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/visualizar_precos.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_ajax/alterar_precos.ajax.php",
+				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/extranet/_topo.php",
+				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/_dados.php",
+				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/extranet/_dados.php",
+				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/contato.html",
+				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/controle.tpl.php",
+				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_classes/Funcoes.class.php",
+				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/_css/estrutura.css",
+				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/pesquisa.html",
+				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/define.php",
+				"//servidor/arquivos/2014/Virtual_Force/Suavéss_(230)/www/VirtualForce/index.php",
+				"//servidor/arquivos/2014/Virtual_Force/Suavéss_(230)/www/.htaccess",
+				"//servidor/arquivos/2014/Virtual_Force/Suavéss_(230)/www/index.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/mysql_tabelas/backup/ciadaofc_db-29-04-2014-11h-25m.sql",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/dados_usuario.php",
+				"//servidor/arquivos/2014/Virtual_Force/Intranet_2013/php/_topo.php",
 				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_ajax/precos.ajax.php",
-				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_classes/Funcoes.class.php",
 				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/visualizar_produto.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/dados_permissao.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_ajax/permissao.ajax.php",
+				"/C/Users/fabio/AppData/Roaming/Sublime Text 3/Packages/User/php-preEcho.sublime-snippet",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/dados_produto.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_topo.php",
 				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_ajax/produto.ajax.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_ajax/marca.ajax.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_ajax/marcas.ajax.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/visualizar_cupom.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/visualizar_categoria.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_classes/SQLcontrole.class.php",
+				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_classes/Funcoes.class.php",
 				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/define.php",
 				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/visualizar_relatorio.php",
 				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_classes/Campos.class.php",
 				"//servidor/arquivos/2014/Virtual_Force/_classes/Funcoes.class.php",
-				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/www/VirtualForce/extranet/_topo.php",
 				"//servidor/arquivos/2014/Virtual_Force/Cia_da_Oficina_(229)/mysql_tabelas/backup/ciadaofc_db.sql",
-				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/define.php",
 				"//servidor/arquivos/2014/Virtual_Force/Engecel_(244)/www/VirtualForce/site/_tema/base.html",
 				"//servidor/arquivos/2014/Virtual_Force/Engecel_(244)/www/VirtualForce/define.php",
 				"//servidor/arquivos/2014/Virtual_Force/Engecel_(244)/www/VirtualForce/site/controle.tpl.php",
-				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/contato.html",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/orcamento.html",
-				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/pesquisa.html",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/extranet/dados_usuario.php",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/extranet/dados_produto.php",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/fancybox/inicio.js",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/base.html",
-				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/controle.tpl.php",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_ajax/email.ajax.php",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/_scripts/script.js",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/inicio.html",
@@ -1517,10 +1548,8 @@
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_ajax/orcamento.ajax.php",
 				"//servidor/arquivos/2014/Virtual_Force/Iconshop_(166)/www/VirtualForce/site/_tema/contato.html",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_classes/Orcamento.class.php",
-				"/C/Users/fabio/AppData/Roaming/Sublime Text 3/Packages/User/php-preEcho.sublime-snippet",
 				"//servidor/arquivos/2014/Virtual_Force/Suavéss_(230)/www/VirtualForce/site/_classes/Orcamento.class.php",
 				"/C/Users/fabio/Documents/apptemplate/.git/config",
-				"/C/Users/fabio/Documents/GitHub/appTemplate/.git/config",
 				"/C/Users/fabio/.ssh/github_rsa.pub",
 				"/C/Users/fabio/.ssh/github_rsa",
 				"//servidor/arquivos/2014/Virtual_Force/Suavéss_(230)/www/VirtualForce/site/solicitar_orcamento.php",
@@ -1534,7 +1563,6 @@
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/index.php",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/extranet/_ajax/foto.ajax.php",
 				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/extranet/dados_foto.php",
-				"//servidor/arquivos/2014/Virtual_Force/Plasticos_Indaial_()/www/VirtualForce/site/_tema/_css/estrutura.css",
 				"//servidor/arquivos/2014/Virtual_Force/Satline_(243)/www/VirtualForce/site/controle.tpl.php",
 				"//servidor/arquivos/2014/Virtual_Force/Satline_(243)/www/VirtualForce/site/_tema/produtos.html",
 				"//servidor/arquivos/2014/Virtual_Force/Satline_(243)/www/VirtualForce/site/_tema/base.html",
@@ -1587,31 +1615,7 @@
 				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/quem_somos.php",
 				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/_topo.php",
 				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/busca.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/cadastrar_imovel.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/imovel.php",
-				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/contato.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/contato.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/_dados.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/extranet/_dados.php",
-				"//servidor/arquivos/2014/Virtual_Force/_Sites_prontos/imobiliaria/cadastre.html",
-				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/cadastrar_imovel.php",
-				"//servidor/arquivos/2014/Virtual_Force/Nivel10_()/www/VirtualForce/site/_ajax/video.ajax.php",
-				"//servidor/arquivos/2014/Virtual_Force/Nivel10_()/www/VirtualForce/site/_ajax/comentario.ajax.php",
-				"//servidor/arquivos/2014/Virtual_Force/Nivel10_()/www/VirtualForce/site/_ajax/artigos.ajax.php",
-				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/imovel.php",
-				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/mapa_popup.php",
-				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/_topo.php",
-				"//servidor/arquivos/2014/Virtual_Force/_Sites_prontos/imobiliaria/interna.html",
-				"//servidor/arquivos/2014/Virtual_Force/Nivel10_()/www/VirtualForce/extranet2/_topo.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/index.php",
-				"//servidor/arquivos/2014/Virtual_Force/_Sites_prontos/imobiliaria/index.html",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/extranet/imovel_cadastrar_foto.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/extranet/imobiliaria_cadastrar_foto.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/extranet/_topo.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/busca_cidade.php",
-				"//servidor/arquivos/2014/Virtual_Force/Engenho_(217)/Web/site/index.php",
-				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/_paginacao.php",
-				"//servidor/arquivos/2014/Virtual_Force/Missão_perigo_()/www/VirtualForce/site/_ajax/postagem.ajax.php"
+				"//servidor/arquivos/2014/Virtual_Force/Corretora_elvira_delima_()/www/site/cadastrar_imovel.php"
 			],
 			"find":
 			{
